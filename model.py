@@ -1,5 +1,5 @@
 """
-Model which trains on live data.
+Model which trains on live data!
 """
 
 import numpy as np
